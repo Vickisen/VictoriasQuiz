@@ -1,12 +1,12 @@
-Hi Victoria!.
+Hi Victoria
 
-Wow! This was a beautiful and well flowing exeperience, both in terms of game play and code. Extremeley well done.
+Wow! This was a beautiful and well flowing experience, both in terms of game play and code. Extremely well done.
 
 11/10, Välgodkänt. The organisation, the use of functions, the cleanliness of the code - it shows a deep understanding of professional development.
 
-I'm struggling to offer any advice at all,the only comment I have is about code style conventions and it's not a critisism. This is beyond excellent, and well beyond what is required for this class and waaaayy beyond what was required for assignment2.
+I'm struggling to offer any advice at all, the only comment I have is about code style conventions and it's not a critisism. This is beyond excellent, and well beyond what is required for this class and waaaayy beyond what was required for assignment2.
 
-I'm not what you hhave planned for assignment 3, but this project would be perfect as it is.
+I'm not sure what you have planned for assignment 3, but this project would be perfect as it is.
 
 
 *************************************
